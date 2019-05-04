@@ -10,7 +10,7 @@ import javax.swing.plaf.synth.SynthSeparatorUI;
 public class MyMain {
 
 	public static void main(String[] args) {
-		System.out.println("prem");
+//		System.out.println("prem");
 		double a =  (int) 5 - (double) 6;
 		System.out.println((double) 25 - (int) 5 - (double) 6);
 		
